@@ -17,7 +17,7 @@ Period: 05/10/2026 – 05/11/2026
 
 ## Key results
 - Movies: 6,126
-- TV Shows: 0
+- TV Shows: 2,664
 - Top country: United States (3,240)
 - Peak release year: 2018 (1,146)
 - Top rating: TV-MA (3,205)
